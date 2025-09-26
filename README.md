@@ -7,9 +7,13 @@ parkinsons-test-ai.ipynb – Parkinson’s Disease Detection using motion/handwr
 ImageClassification_CNN.ipynb – Image classification (Healthy vs. Patient / Happy vs. Sad) using Convolutional Neural Networks (CNNs).
 
 ├── parkinsons-test-ai.ipynb   # Parkinson’s disease detection (ML models)
+
 ├── ImageClassification_CNN.ipynb  # CNN-based image classifier
+
 ├── control                       # Dataset for normal patient
+
 |── parkinson                     # Dataset for parkinson patient
+
 └── README.md                  # Project documentation
 
 # ⚙️ Requirements
